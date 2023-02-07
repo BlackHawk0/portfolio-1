@@ -30,47 +30,43 @@
   <!-- Stack overflow -->
   <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a> 
 
-  <!-- Other badges -->
-  <!-- 
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a>  -->
+ 
 </p>
 
 <br/>
 
 
-<!-- 
-  -- SECTION: OVERVIEW
-  -- 
-  -->
 
-<!-- <h1>Overview</h1>
+  <!-- -- SECTION: OVERVIEW
+  --  -->
+ 
+
+ <h1>Overview</h1>
 
 ### Get to know me
 
-<!-- 💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+💬 I'm a fullstack junior software engineer
 
-📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
+📄 Know about my experiences [through my CV](https://docs.google.com/document/d/1O6nwbyJsKn_It8FQisBWPlybfmFSvZgG/edit?usp=sharing&ouid=106328662118126287820&rtpof=true&sd=true)
 
-📄 Know about my experiences [through my CV](about/resume.md)
+🌱 I’m currently developing features on elewa group website.
 
-🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
-
-⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
+⚡ Fun fact? **Formula 1 enthusiast, former rugby player**
 
 ### My work
 
 🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
-<!-- OR -->
-<!-- 🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali) -->
+
+🔭 I’m currently working on [Elewa-Group](https://github.com/italanta/elewa-group)
 
 <!-- TODO: Update at the end of every day with your  -->
-<!-- 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)! -->
+🤝 About to score [this bounty](https://github.com/italanta/elewa-group/issues/10)!
 
 <!-- 👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta) -->
 
-<!-- ### Interested ? -->
+### Interested ?
 
-<!-- 📫 Reach me on **jente@elewa.ke** --> 
+📫 Reach me on **ngoyadaniel4@gmail.com** 
 
 <!-- <br /> -->
 
@@ -96,12 +92,12 @@
 <br/>
 
 <!-- Link in this table your actual contributions -->
-<!-- ### My contributions
+ ### My contributions
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 17/01/23 	| 🏇 Upgrade performance of financial forecasts| Completed | [#22](https://github.com/italanta/kujali/issues/22) |
-| 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) |
+| 6/01/23 	| 🏇 Create a reusable hero (Top page banner) component for the website| Completed | [#10](https://github.com/italanta/elewa-group/issues/10) |
+| 7/01/23	| 🏇 Create a reusable hero (Top page banner) component for the website| Reviewed| [#10](https://github.com/italanta/elewa-group/issues/10) |
 
 
 ### The technologies I used
@@ -143,8 +139,6 @@
 <!-- END: EXPERIENCE I -->
 
 <!-- Section: GITHUB OVERVIEW -->
-#
-
 <h2 align="left">My GitHub Overview</h2>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackHawk0&show_icons=true&locale=en" alt="BlackHawk0" /></p>
