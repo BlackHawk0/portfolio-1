@@ -96,8 +96,11 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 6/01/23 	| 🏇 Create a reusable hero (Top page banner) component for the website| Completed | [#10](https://github.com/italanta/elewa-group/issues/10) |
-| 7/01/23	| 🏇 Create a reusable hero (Top page banner) component for the website| Reviewed| [#10](https://github.com/italanta/elewa-group/issues/10) |
+| 6/02/23 	| 🏇 Create a reusable hero (Top page banner) component for the website| Completed | [#10](https://github.com/italanta/elewa-group/issues/10) |
+| 7/02/23	| 🏇 Create a reusable hero (Top page banner) component for the website| Reviewed| [#10](https://github.com/italanta/elewa-group/issues/10) |
+| 8/02/23	| 🏇 Create a reusable hero (Top page banner) component for the website| Closed| [#10](https://github.com/italanta/elewa-group/issues/10) |
+| 9/02/23	| 🏇 Started creating a bookstore app| working progress| [bookstore](https://github.com/BlackHawk0/bookstore) |
+
 
 
 ### The technologies I used
