@@ -101,6 +101,13 @@
 | 8/02/23	| 🏇 Create a reusable hero (Top page banner) component for the website| Closed| [#10](https://github.com/italanta/elewa-group/issues/10) |
 | 9/02/23	| 🏇 Started creating a bookstore app| working progress| [bookstore](https://github.com/BlackHawk0/bookstore) |
 | 9/02/23	| 🏇 Create reusable text and image banner (side by side)Create reusable text and image banner (side by side)| Awaiting Review| [#31](https://github.com/italanta/elewa-group/issues/31) |
+| 9/02/23	| 🏇 Create reusable text and image banner (side by side)Create reusable text and image banner (side by side)| Awaiting Review| [#31](https://github.com/italanta/elewa-group/issues/31) |
+| 22/02/23	| 🏇 Create a Lander| Closed| [#12](https://github.com/BlackHawk0/elewa-group/tree/12/lander) |
+| 22/02/23	| 🏇 Create our history progress caraousel | Closed| [#22](https://github.com/BlackHawk0/elewa-group/tree/22/history) |
+
+| 17/02/23	| 🎉Project Intialization| Development Stage| [products](https://bitbucket.org/BlackHawk0/products/src/main/) |
+| 21/02/23	| ✨Render Products Page| Development Stage| [products](https://bitbucket.org/BlackHawk0/products/src/main/) |
+| 23/02/23	| ✨Add product page| Development Stage| [products](https://bitbucket.org/BlackHawk0/products/src/main/) |
 
 
 
